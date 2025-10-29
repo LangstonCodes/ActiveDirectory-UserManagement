@@ -8,18 +8,16 @@ Learn how to create and manage user accounts in Active Directory.
 ## 🧠 Skills Practiced
 - Creating new users
 - Managing user properties
-- Organizing users in OUs
-- Assigning group memberships
 
 ## 🧰 Tools Used
 - Windows Server 2022
 - Active Directory Users and Computers (ADUC)
 
 ## 🪜 Steps Performed
-1. Created new users under the **Sales** and **IT** OUs.
-2. Assigned users to security and distribution groups.
-3. Set initial passwords and required password reset on next login.
-4. Verified user login credentials on domain-connected machines.
+1. Created new user John Doe<img width="1680" height="1050" alt="New-User" src="https://github.com/user-attachments/assets/da9dcf62-a9ae-4a63-8852-2b3cdeb6a13f" />
 
+3. Set initial password and password that never expires <img width="1533" height="1024" alt="Screenshot 2025-10-29 at 4 17 33 PM" src="https://github.com/user-attachments/assets/bf4a0e55-d3e4-405a-a505-38c9a029ee73" />
+
+   
 ## ✅ Outcome
-Successfully created and managed multiple domain user accounts using Active Directory.
+Successfully created and managed a user account using Active Directory.
