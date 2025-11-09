@@ -1,7 +1,7 @@
 # ActiveDirectory-UserManagement
 Watch me build this lab here! https://www.loom.com/share/d08f4e94e80b46119f53c7939db4a65d
 
-Set up and configure Active Directory Domain Services (AD DS) on Windows Server.
+Set up and configure new user accounts.
 # 👥 Active Directory - User Management Lab
 
 ## 🧩 Objective
